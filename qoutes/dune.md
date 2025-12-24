@@ -2,4 +2,5 @@
 * "A Great Man Doesn't Seek to Lead. He's called To It."
 * "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 * "When Is A Gift Not a Gift"
-
+* "The spice must flow"
+* "Fear is mind-killer"
